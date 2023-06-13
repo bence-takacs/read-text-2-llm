@@ -1,0 +1,9 @@
+langchain
+openai
+chromadb
+tiktoken
+
+flask 
+werkzeug
+
+pytest
