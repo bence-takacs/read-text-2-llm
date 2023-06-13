@@ -13,8 +13,7 @@ class MyApplication:
         if not os.path.exists(self.app.config['UPLOAD_FOLDER']):
             os.makedirs(self.app.config['UPLOAD_FOLDER'])
 
-        filepath=os.path.join('.', 'state_of_the_union.txt')
-        self.embedding= Embedding(filepath) # None
+        self.embedding = None
         self.setup_routes()
 
 

@@ -13,5 +13,5 @@ set_me_up.sh
 python main.py
 ```
 
-***CAVEAT: *** Do not share your API token with anybody. Do not share your running application with anybody you don't trust.
+*** CAVEAT: *** Do not share your API token with anybody. Do not share your running application with anybody you don't trust.
 One having your token or using your app means that they can query OpenAPI using your own identity.
