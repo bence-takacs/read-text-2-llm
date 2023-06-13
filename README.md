@@ -1,6 +1,6 @@
 # read-text-2-llm
 
-create a file `local_settings` with the following content:
+create a file `.local_settings` with the following content:
 
 ```
 export OPENAI_API_KEY="{replace with your own OpenAPI token}}"
